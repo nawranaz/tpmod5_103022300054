@@ -1,0 +1,15 @@
+D:\Semester4\Konstruksi\tp\tpmodul5_103022300054\bin\Debug\net8.0\tpmodul5_103022300054.exe
+D:\Semester4\Konstruksi\tp\tpmodul5_103022300054\bin\Debug\net8.0\tpmodul5_103022300054.deps.json
+D:\Semester4\Konstruksi\tp\tpmodul5_103022300054\bin\Debug\net8.0\tpmodul5_103022300054.runtimeconfig.json
+D:\Semester4\Konstruksi\tp\tpmodul5_103022300054\bin\Debug\net8.0\tpmodul5_103022300054.dll
+D:\Semester4\Konstruksi\tp\tpmodul5_103022300054\bin\Debug\net8.0\tpmodul5_103022300054.pdb
+D:\Semester4\Konstruksi\tp\tpmodul5_103022300054\obj\Debug\net8.0\tpmodul5_103022300054.GeneratedMSBuildEditorConfig.editorconfig
+D:\Semester4\Konstruksi\tp\tpmodul5_103022300054\obj\Debug\net8.0\tpmodul5_103022300054.AssemblyInfoInputs.cache
+D:\Semester4\Konstruksi\tp\tpmodul5_103022300054\obj\Debug\net8.0\tpmodul5_103022300054.AssemblyInfo.cs
+D:\Semester4\Konstruksi\tp\tpmodul5_103022300054\obj\Debug\net8.0\tpmodul5_103022300054.csproj.CoreCompileInputs.cache
+D:\Semester4\Konstruksi\tp\tpmodul5_103022300054\obj\Debug\net8.0\tpmodul5_103022300054.sourcelink.json
+D:\Semester4\Konstruksi\tp\tpmodul5_103022300054\obj\Debug\net8.0\tpmodul5_103022300054.dll
+D:\Semester4\Konstruksi\tp\tpmodul5_103022300054\obj\Debug\net8.0\refint\tpmodul5_103022300054.dll
+D:\Semester4\Konstruksi\tp\tpmodul5_103022300054\obj\Debug\net8.0\tpmodul5_103022300054.pdb
+D:\Semester4\Konstruksi\tp\tpmodul5_103022300054\obj\Debug\net8.0\tpmodul5_103022300054.genruntimeconfig.cache
+D:\Semester4\Konstruksi\tp\tpmodul5_103022300054\obj\Debug\net8.0\ref\tpmodul5_103022300054.dll
